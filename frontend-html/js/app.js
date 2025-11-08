@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:5000';
+const baseUrl = 'https://your-backend-url.onrender.com';
 
 let authMode = true;
 let usr = null;
