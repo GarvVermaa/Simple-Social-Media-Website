@@ -1,4 +1,4 @@
-const baseUrl = 'https://your-backend-url.onrender.com';
+const baseUrl = 'https://linkedin-clone-backendd.onrender.com/';
 
 let authMode = true;
 let usr = null;
