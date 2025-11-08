@@ -4,13 +4,13 @@ A simplified LinkedIn clone built with HTML, CSS, JavaScript for the frontend an
 
 ## 🚀 Live Demo
 
-- **Frontend:** [Your Netlify URL here]
-- **Backend API:** [Your Render/Railway URL here]
+- **Frontend:** https://eloquent-stroopwafel-d7997e.netlify.app/
+- **Backend API:** https://linkedin-clone-backenddd.onrender.com/
 
 ## 📸 Screenshots
 
-![Login Page](screenshots/login.png)
-![Feed Page](screenshots/feed.png)
+![Login Page](screenshots/loginpage.png)
+![Feed Page](screenshots/Feed.png)
 
 ## ✨ Features
 
